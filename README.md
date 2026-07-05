@@ -2,7 +2,7 @@
 
 Electronic transport from first principles. Starting with the Drude model, I progressively build a Monte Carlo transport simulator, introduced Lorentz-force dynamics, and implemented a finite-difference Poisson solver as preparation for a self-consistent Hall-effect simulation.
 
-Topics covered:
+##Topics covered:
 
 1. Drude transport ✅
 2. Monte Carlo scattering ✅
@@ -11,3 +11,8 @@ Topics covered:
 5. Hall effect intuition ✅
 6. Finite-difference solution of Poisson's equation ✅
 7. Toward self-consistent transport simulations 🔄
+
+##Tools
+-Python
+-numpy
+-matplotlib
